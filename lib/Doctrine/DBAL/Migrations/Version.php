@@ -40,7 +40,7 @@ class Version
     const STATE_NONE = 0;
     const STATE_PRE  = 1;
     const STATE_EXEC = 2;
-    const STATE_POST = 3;
+    const STATE_POST = 4;
 
     const DIRECTION_UP = 'up';
     const DIRECTION_DOWN = 'down';

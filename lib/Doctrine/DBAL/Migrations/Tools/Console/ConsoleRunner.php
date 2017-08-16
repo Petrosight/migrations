@@ -74,6 +74,7 @@ class ConsoleRunner
             new Command\GenerateCommand(),
             new Command\LatestCommand(),
             new Command\MigrateCommand(),
+            new Command\RollbackCommand(),
             new Command\StatusCommand(),
             new Command\VersionCommand(),
             new Command\UpToDateCommand(),
